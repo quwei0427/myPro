@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="18537" started-at="2018-07-28T06:45:23Z" finished-at="2018-07-28T06:45:42Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="18537" started-at="2018-07-28T06:45:23Z" finished-at="2018-07-28T06:45:42Z">
+      <class name="com.selenium.screenShot.TestLoginSceenShot">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.selenium.screenShot.TestLoginSceenShot@50d0686]" name="beforeSuite" is-config="true" duration-ms="703" started-at="2018-07-28T06:45:23Z" finished-at="2018-07-28T06:45:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.selenium.screenShot.TestLoginSceenShot@50d0686]" name="beforeMethod" is-config="true" duration-ms="8513" started-at="2018-07-28T06:45:23Z" finished-at="2018-07-28T06:45:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.selenium.screenShot.TestLoginSceenShot@50d0686]" name="test" duration-ms="8573" started-at="2018-07-28T06:45:32Z" finished-at="2018-07-28T06:45:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.selenium.screenShot.TestLoginSceenShot@50d0686]" name="afterMethod" is-config="true" duration-ms="1419" started-at="2018-07-28T06:45:40Z" finished-at="2018-07-28T06:45:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.selenium.screenShot.TestLoginSceenShot@50d0686]" name="afterSuite" is-config="true" duration-ms="62" started-at="2018-07-28T06:45:42Z" finished-at="2018-07-28T06:45:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.selenium.screenShot.TestLoginSceenShot -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

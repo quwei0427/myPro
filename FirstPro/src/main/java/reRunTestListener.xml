@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <listeners>
+        <listener class-name="com.selenium.reRunTest.ReRunTestListener"></listener>
+  </listeners>
+  <test name="Test">
+    <classes>
+      <class name="com.selenium.screenShot.TestLoginSceenShot"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
